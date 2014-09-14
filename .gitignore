@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+node_modules
+out
+resources/public/out
+resources/public/vendor
+resources/public/main.js
+\#*\#
+\*scratch\*
+.\#*
