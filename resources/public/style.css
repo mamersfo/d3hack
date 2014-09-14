@@ -1,0 +1,35 @@
+body {
+  font: 12px Helvetica, sans-serif;
+  position: relative;
+  width: 960px;
+  height: 500px;
+}
+
+.message {
+  position: relative;
+  text-align: center;
+  top: 50%;
+  margin: -15px auto 0 auto;
+  line-height: 30px;
+  width: 500px;
+}
+
+.message--error {
+  color: red;
+}
+
+.country {
+  fill: #222;
+}
+
+.canton-boundaries {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1;
+}
+ 
+.municipality-boundaries {
+  fill: none;
+  stroke: #fff;
+  stroke-width: .3;
+}
